@@ -4,7 +4,8 @@ ADD x86_64/2839bbab00879016baa99aa5d7bebc5035e96e53301b25caa2a520c4f89aeffc.tar.
 ADD x86_64/889cdf3ea64771d9d2e7c471a0c412fdc7d2a003cddacac9fd10983db17bb7ff.tar.xz /
 ADD x86_64/94eaa6a49f496c8d7f80d58ebaadefca05fb77299b8e9d31575fc4ddd3ac3b5b.tar.xz /
 ADD x86_64/db334d84d1b6881b296e8cb643961c494f7c5cd24a08fe2160c681c7eaf25df1.tar.xz /
-ADD x86_64/fd5452026652c5e4f0f609bf92dff7fe6b50284ec2db51a91c580247eeff7b30.tar.xz /
+# ADD x86_64/fd5452026652c5e4f0f609bf92dff7fe6b50284ec2db51a91c580247eeff7b30.tar.xz /
+ADD x86_64/python_3135_nogil_2.tar.xz /
 
 ENV LANG=en_US.UTF-8
 ENV TZ=:/etc/localtime
